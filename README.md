@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+zer0, make fun game.
+
+![zer0's github stats](https://github-readme-stats.vercel.app/api?username=talesofwing)
+
 <!--
 **Talesofwing/talesofwing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
