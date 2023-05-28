@@ -12,8 +12,8 @@ zer0, make fun games.
 </p>
 
 <a align="center" href="https://0-rpg.com/">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=talesofwing&hide=html&hide_title=true&layout=compact&" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesofwing&hide=html&hide_title=true&layout=compact&langs_count=6" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=talesofwing&hide=html&hide_title=true&layout=compact&" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesofwing&hide=html&hide_title=true&layout=compact&langs_count=6" />
 </a>
   
 <!--
